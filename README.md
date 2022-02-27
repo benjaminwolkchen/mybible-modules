@@ -1,6 +1,6 @@
 # mybible-modules
 
--> [MyBible Modul Spezifikation](https://benjaminwolkchen.github.io/mybible-modules/MyBibleModulesFormat.html)
+-> [MyBible Modul Spezifikation](https://docs.google.com/document/d/12rf4Pqy13qhnAW31uKkaWNTBDTtRbNW0s7cM0vcimlA/edit?usp=sharing)
 
 ## Deutschsprachige Module
 - [Allioli/Arndt Bibel, 1914, alte Ps-Nr.](https://github.com/benjaminwolkchen/mybible-modules/releases/download/de1.1/Allioli.SQLite3)
