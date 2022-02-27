@@ -1,4 +1,7 @@
 # mybible-modules
+
+-> [MyBible Modul Spezifikation](https://benjaminwolkchen.github.io/mybible-modules/MyBibleModulesFormat.html)
+
 ## Deutschsprachige Module
 - [Allioli/Arndt Bibel, 1914, alte Ps-Nr.](https://github.com/benjaminwolkchen/mybible-modules/releases/download/de1.1/Allioli.SQLite3)
 - [Allemanische Bibel NT](https://github.com/benjaminwolkchen/mybible-modules/releases/download/de1.1/ALMNT.SQLite3)
